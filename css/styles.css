@@ -1,0 +1,25 @@
+body{
+  background-color: #E8F6EF;
+}
+/*the border,height,width css properties are for boxes over every element in our
+page.in here these proberties applied over the box that over the hr  */
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 7%;
+
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1 {
+  color: #66BFBF;
+}
+h3 {
+  color:  #66BFBF;
+}
+
+.A_P {
+  border: 1px solid black;
+          border-collapse: collapse;
+}
